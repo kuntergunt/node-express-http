@@ -1,0 +1,25 @@
+{
+  "name": "node-express-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuntergunt/node-express-http.git"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "express",
+    "http"
+  ],
+  "author": "kuntergunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuntergunt/node-express-http/issues"
+  },
+  "homepage": "https://github.com/kuntergunt/node-express-http#readme"
+}
